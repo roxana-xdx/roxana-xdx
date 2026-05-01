@@ -6,7 +6,7 @@ I'm currently working on small projects in order to learn programming, so far th
 
 My goal is to become a full-stack developer. Here you can see my journey. 🌱 
 
-Thanks for stopping by! ✨
+Thanks for stopping by!
 
 > Software and cathedrals are very much the same. First we build them, then we pray. - Sam Redwine
 
